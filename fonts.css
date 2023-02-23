@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('./fonts/Poppins-SemiBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('./fonts/WorkSans-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
